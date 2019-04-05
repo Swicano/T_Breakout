@@ -4,4 +4,4 @@ A breakout board for the Adafruit Feather form factor which breaks out the SPI b
 
 This includes a board design for the breakout board itself, a 3d print file for a holder to mount the populated breakout, as well as a very basic program to gather data from one data pin, which can be easily extended.
 
-Will be written up on swicano.github.io
+Written up on https://swicano.github.io/T_breakout_pt1/
