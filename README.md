@@ -15,9 +15,15 @@ This includes a [PCB design for the breakout board itself on Upverter](https://u
   <p align="center"> PCB design </p>
 </p>
 a 3d print file for a holder to mount the populated breakout, 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Swicano/swicano.github.io/master/images/T_breakout/Complete1.jpg" alt="Complete1" align="center" width="500" />
-  <p align="center"> Current state of the project </p>
-</p>
-as well as a very basic program to gather data from one data pin, which can be easily extended.
 
+<p>
+<p align="center">
+    <p align="left"><img src="https://raw.githubusercontent.com/Swicano/swicano.github.io/master/images/T_breakout2/Thermocouple_reader_unpopulated.PNG" align="left" width="410"/></p>
+    <p align="right"><img src="https://raw.githubusercontent.com/Swicano/swicano.github.io/master/images/T_breakout2/Thermocouple_reader_populated.png" alt="populated" align="right" width="410"/></p>
+</p>
+<p align="center"> 3d printed holder </p>
+</p>
+
+<p>
+as well as a very basic program to gather data from one data pin, which can be easily extended, in this repository.
+</p>
