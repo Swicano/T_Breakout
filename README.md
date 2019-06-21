@@ -18,8 +18,8 @@ a 3d print file for a holder to mount the populated breakout, made in Fusion 360
 
 <p>
 <p align="center">
-    <p align="left"><img src="https://raw.githubusercontent.com/Swicano/swicano.github.io/master/images/T_breakout2/Thermocouple_reader_unpopulated.PNG" align="left" width="415"/></p>
-    <p align="right"><img src="https://raw.githubusercontent.com/Swicano/swicano.github.io/master/images/T_breakout2/Thermocouple_reader_populated.png" alt="populated" align="right" width="415"/></p>
+    <p align="left"><img src="https://raw.githubusercontent.com/Swicano/swicano.github.io/master/images/T_breakout2/Thermocouple_reader_unpopulated.PNG" align="left" width="413"/></p>
+    <p align="right"><img src="https://raw.githubusercontent.com/Swicano/swicano.github.io/master/images/T_breakout2/Thermocouple_reader_populated.png" alt="populated" align="right" width="413"/></p>
 </p>
 <p align="center"> 3d printed holder </p>
 </p>
