@@ -1,0 +1,12 @@
+Reference Designator,Description,Manufacturer,Manufacturer Part Number,Suppliers,Package,Quantity,Imported,Eaglexml Library,Mouser Part Number,Digikey Part Number,Verified Pad Assignment,Temperature Range Low,Verified Attributes,Digikey Description,Verified Geometry,Verified Pin Names,Temperature Range High,Centroid Not Specified,Eaglexml Symbol 0,Eaglexml Deviceset,Eaglexml Gate 0,Eaglexml Device,Eaglexml Description,Resistance,Ipc Land Pattern Name
+?1,microbuilder:ADAFRUIT_3.5MM,unknown,microbuilder:ADAFRUIT_3.5MM,,ADAFRUIT_3.5MM,1,yes,U$7,,,,,,,,,,,,,,,,,
+?2,microbuilder:ADALOGGER_LOGO,unknown,microbuilder:ADALOGGER_LOGO,,ADALOGGER_LOGO,1,yes,U$14,,,,,,,,,,,,,,,,,
+?3,microbuilder:PCBFEAT-REV-040,unknown,microbuilder:PCBFEAT-REV-040,,PCBFEAT-REV-040,1,yes,U$9,,,,,,,,,,,,,,,,,
+?4,microbuilder:FEATHERLOGO,unknown,microbuilder:FEATHERLOGO,,FEATHERLOGO,1,yes,U$13,,,,,,,,,,,,,,,,,
+D1 D10 D11 D12 D13 D14 D15 D16 D17 D18 D19 D2 D20 D21 D22 D23 D24 D25 D26 D27 D28 D29 D3 D30 D4 D5 D6 D7 D8 D9,Green 525nm LED Indication - Discrete 3.2V,Lite On,LTST-C170TGKT,,0805 (2012 metric),30,,,859-LTST-C170TGKT,160-1887-1-ND,true,-20°C,true,LED GREEN CLEAR 0805 SMD,true,true,+80°C,No,,,,,,,
+J1 J10 J2 J3 J4 J5 J6 J7 J8 J9,9 Pin Header,Generic Headers,9 Pin Header,,,10,,,,,,,,,,,,,,,,,,,
+JP1,microbuilder:HEADER-1X12:,unknown,HEADER-1X12,,1X12_ROUND,1,yes,microbuilder,,,,,,,,,,,PINHD12,HEADER-1X12,G$1,,,,
+JP2,microbuilder:HEADER-1X16:ROUND,unknown,HEADER-1X16,,1X16_ROUND,1,yes,microbuilder,,,,,,,,,,,PINHD16,HEADER-1X16,A,ROUND,<b>PIN HEADER</b>,,
+R1 R10 R11 R12 R13 R14 R15 R16 R17 R18 R19 R2 R20 R21 R22 R23 R24 R25 R26 R27 R28 R29 R3 R30 R4 R5 R6 R7 R8 R9,Resistor SMD 330 OHM 5% 1/8W 0603,Stackpole Electronics LLC,RNCP0603FTD330R,,0603,30,,,,,true,-55°C,true,,true,true,+125°C,No,,,,,,330Ω,RESC15080X40
+U1,microbuilder:VBAT:,unknown,VBAT,,None,1,yes,microbuilder,,,,,,,,,,,VBAT,VBAT,G$1,,VBAT Supply Sumbol,,
+U2,microbuilder:VBUS:,unknown,VBUS,,None,1,yes,microbuilder,,,,,,,,,,,VBUS,VBUS,G$1,,<p>VBUS Supply Symbole</p>,,
